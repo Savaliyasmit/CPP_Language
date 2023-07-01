@@ -1,2 +1,1 @@
-
-  int j=1;
+   cout<<"batsman runs  is:-"<<runs<<endl;
