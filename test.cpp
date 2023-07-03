@@ -7,7 +7,7 @@ class Test
 {
 private:
     int testcode,NoCandidate,CenterReqd; 
-    string Description; //  getline(cin ,Description); for tak a input string 
+    string Description; 
 
     float Calcntr()
     {
