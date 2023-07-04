@@ -39,7 +39,7 @@ int main()
 {
     Test t;
 
-    t.Area(10); //  area of Square 
+    t.Area(10); //  area of Square is
 
     t.Area(3.12);  // area of Circle
 
