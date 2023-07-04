@@ -1,21 +1,21 @@
 #include<iostream>
 using namespace std;
 
-class Tast 
+class Test
 {
 
     public:
-   Tast()
+   Test()
    {
     cout<<"Defualt Constructor type call.... "<<endl;
    }
 
-   Tast(int a) // using int dataType 
+   Test(int a) // using int dataType 
    {
     cout<<"Perameterized Constructor type call.. A : "<<a<<endl;
    }
 
-   Tast(char ch) // using char dataType 
+   Test(char ch) // using char dataType 
    {
     cout<<"Perameterized Constructor type call.. ch : "<<ch<<endl;
    }
@@ -24,5 +24,5 @@ class Tast
 
 int main()
 {
-    Tast t,b(23),c('J');
+    Test t,b(23),c('J');
 }
