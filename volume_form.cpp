@@ -50,5 +50,5 @@ public:
 
 int main()
 {
-    Volume shapes,shape(12),shape1(2,4,3),shape2(3.4),shape3(3.2,4),shape4(3,5.4),shape5(2.1,0.4);
+    Volume shapes,shape(12),shape1(2,4,3),shape2(3.4),shape3(3.2,4),shape4(3,5.4),shape5(2.1,0.4);//print
 }
