@@ -39,5 +39,5 @@ public:
 
 int  main()
 {
-    Area area0,area1(4),area2(3.6),area3(10,20),area4(3.4,5.1);
+    Area area0,area1(4),area2(3.6),area3(10,20),area4(3.4,5.1);//squre,circle,rectangle,triengle
 }

@@ -44,15 +44,15 @@ int main()
 {
     Test t;
     
-    cout<<"Volume of Cube : "<<t.Volume(2)<<endl;
+    cout<<"Volume of Cube : "<<t.Volume(2)<<endl;//cube
 
-    cout<<"Volume of Rectangular Solid or Cuboid  : "<<t.Volume(2,5,6)<<endl;
+    cout<<"Volume of Rectangular Solid or Cuboid  : "<<t.Volume(2,5,6)<<endl;//rectangular solid or cuboid
 
-    cout<<"Volume  of Sphere  : "<<t.Volume(3.5)<<endl;
+    cout<<"Volume  of Sphere  : "<<t.Volume(3.5)<<endl;//sphere
 
-    cout<<"Volume Prism  :"<<t.Volume(2,3.5)<<endl;
+    cout<<"Volume Prism  :"<<t.Volume(2,3.5)<<endl;//Prism
 
-    cout<<"Volume of Pyramid :"<<t.Volume(3.3,4.5)<<endl;
+    cout<<"Volume of Pyramid :"<<t.Volume(3.3,4.5)<<endl;//pryamid
 
-    cout<<"Volume of Cylinder  :"<<t.Volume(3.3,5)<<endl;
+    cout<<"Volume of Cylinder  :"<<t.Volume(3.3,5)<<endl;//cylinder
 }
