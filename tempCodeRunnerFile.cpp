@@ -1,1 +1,1 @@
-   cout<<"batsman runs  is:-"<<runs<<endl;
+ logic();
