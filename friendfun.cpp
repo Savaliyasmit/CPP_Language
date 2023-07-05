@@ -40,5 +40,5 @@ int main(){
   cout<<"volume of box b is:"<<b.getdata()<<endl;
 
   c=add(a,b);
-  cout<<"volume of c is:"<<c.getdata()<<endl;
+  cout<<"volume of c is:"<<c.getdata()<<endl; //print sum values
   }
