@@ -53,7 +53,7 @@ class derived : public base2 // and derived class a inherited last base class or
 
 int main ()
  {
-    derived d;
+    derived d;//object
 
     d.setA();
     d.setB();
