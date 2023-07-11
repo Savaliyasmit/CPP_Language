@@ -30,7 +30,7 @@ class bank
        case 1:
              OpenAccount();
             saving_acc();
-          break; //  end saving account 
+          break; //  end 
 
       
 
