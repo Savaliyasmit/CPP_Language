@@ -34,10 +34,10 @@ int main()
     bank a;
     int ch;
 
-        cout<<endl<<"Press [1] To Check Account Balance : ";
-        cout<<endl<<"Press [2] To Withdrawal  Monney : ";
-        cout<<endl<<"Press [3] To Deposit Monney : ";
-        cout<<endl<<"Press [0] To Exit :  "<<endl;
+        cout<<endl<<"Press [1] To Check Account Balance : ";//print Check Account Balance
+        cout<<endl<<"Press [2] To Withdrawal  Monney : ";//print withdrawal  Monney
+        cout<<endl<<"Press [3] To Deposit Monney : ";//print  Deposit Monney 
+        cout<<endl<<"Press [0] To Exit :  "<<endl;//print Exit
 
     
 
