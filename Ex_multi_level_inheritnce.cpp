@@ -25,7 +25,7 @@ class base2 : public base1  //in multilevel inheritance second base class inheri
  public:
    void setB()
    {
-    cout<<"Enter A : ";
+    cout<<"Enter B : ";
     cin>>b;
    }
 };
